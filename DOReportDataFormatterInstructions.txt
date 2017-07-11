@@ -1,0 +1,3 @@
+Right-click DOReportDataFormatter.ps1 and open in a text editor (like Notepad).
+
+Follow the directions in the script.
